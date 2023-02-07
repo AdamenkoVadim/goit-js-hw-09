@@ -7,10 +7,6 @@ const dataDays = document.querySelector('span[data-days]');
 const dataHours = document.querySelector('span[data-hours]');
 const dataMinutes = document.querySelector('span[data-minutes]');
 const dataSeconds = document.querySelector('span[data-seconds]');
-const divElem = document.querySelecto('.timer');
-//divElem.setAttribute('display',flex);
-console.log('rtrt');
-//dataDays.style.color = #211C18;
 
 let inputDate = null;
 btnStart.disabled = true;
